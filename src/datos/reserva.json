@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "hotel": "Hotel Santiago",
+    "tipo_habitacion": "Pareja",
+    "num_huespedes": 2,
+    "fecha_reserva": "2023-05-25"
+  }
+]
